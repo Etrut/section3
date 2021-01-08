@@ -46,7 +46,6 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-rest-hal-browser</artifactId>
-			<version>3.3.6.RELEASE</version>
 		</dependency>
 		<!-- hanno detto di toglierlo perché se no il browser da la priorità all'xml invece che json
 		<dependency>
